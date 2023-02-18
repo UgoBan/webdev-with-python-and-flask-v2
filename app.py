@@ -18,13 +18,14 @@ JOBS = [
   {
     'id': 3,
     'title': 'Data Analyst',
-    'location': 'Munich, Germany'
+    'location': 'Munich, Germany',
+    'salary': 'EUR. 46,000'
   },
   {
     'id': 4,
     'title': 'Frontend Developer',
     'location': 'Hamburg, Germany',
-    'salary': 'EUR. ,000'
+    'salary': 'EUR. 60,000'
   }
 ]
 
